@@ -1,0 +1,218 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "news.com.au — Australia’s leading news site | World News",
+  "home_page_url": "https://www.news.com.au/",
+  "description": "news.com.au — Australia’s leading news site news feed for the World News category.",
+  "items": [
+    {
+      "guid": "https://www.news.com.au/technology/science/archaeology/newly-found-assyrian-camp-supports-epic-biblical-account-expert-says/news-story/efb6bea177bfc68b958b345d9934ffdf?from=rss-basic",
+      "url": "https://www.news.com.au/technology/science/archaeology/newly-found-assyrian-camp-supports-epic-biblical-account-expert-says/news-story/efb6bea177bfc68b958b345d9934ffdf?from=rss-basic",
+      "title": "Newly found Assyrian camp supports epic biblical account, expert says",
+      "content_html": "A recent discovery may corroborate an epic biblical account of an angel of the Lord wiping out 185,000 soldiers, a scholar claims.",
+      "summary": "A recent discovery may corroborate an epic biblical account of an angel of the Lord wiping out 185,000 soldiers, a scholar claims."
+    },
+    {
+      "guid": "https://www.news.com.au/technology/motoring/on-the-road/new-york-mobster-tony-cakes-identified-as-elderly-pedestrian-decapitated-by-city-truck-in-grisly-accident/news-story/41ee394636a58175dedf71b8feaa5cf0?from=rss-basic",
+      "url": "https://www.news.com.au/technology/motoring/on-the-road/new-york-mobster-tony-cakes-identified-as-elderly-pedestrian-decapitated-by-city-truck-in-grisly-accident/news-story/41ee394636a58175dedf71b8feaa5cf0?from=rss-basic",
+      "title": "New York mobster ‘Tony Cakes’ identified as elderly pedestrian decapitated by city truck in grisly accident",
+      "content_html": "An elderly man who met a horrific end on a public street in front of shocked onlookers has been identified as a prominent member of the Genovese crime family.",
+      "summary": "An elderly man who met a horrific end on a public street in front of shocked onlookers has been identified as a prominent member of the Genovese crime family."
+    },
+    {
+      "guid": "https://www.news.com.au/world/north-america/two-dead-eight-hurt-in-us-supermarket-shooting/news-story/aba1800552e8f399cb4daeae66bafab7?from=rss-basic",
+      "url": "https://www.news.com.au/world/north-america/two-dead-eight-hurt-in-us-supermarket-shooting/news-story/aba1800552e8f399cb4daeae66bafab7?from=rss-basic",
+      "title": "Two dead, eight hurt in US supermarket shooting",
+      "content_html": "Multiple deaths and injuries have been reported in the “horrific incident”, including a police officer.",
+      "summary": "Multiple deaths and injuries have been reported in the “horrific incident”, including a police officer."
+    },
+    {
+      "guid": "https://www.news.com.au/world/asia/south-korea-fires-warning-shots-after-new-north-korea-border-incursion/news-story/aadd5ba9c76ef9a11a39c59791a9bfd3?from=rss-basic",
+      "url": "https://www.news.com.au/world/asia/south-korea-fires-warning-shots-after-new-north-korea-border-incursion/news-story/aadd5ba9c76ef9a11a39c59791a9bfd3?from=rss-basic",
+      "title": "Tensions boil after third Korea border dispute",
+      "content_html": "Seoul’s military said it had fired warning shots after North Korean soldiers briefly crossed the heavily fortified border in the third such incursion this month.",
+      "summary": "Seoul’s military said it had fired warning shots after North Korean soldiers briefly crossed the heavily fortified border in the third such incursion this month."
+    },
+    {
+      "guid": "https://www.news.com.au/travel/australian-dies-while-undertaking-hajj-pilgrimage-in-saudi-arabia-dfat-confirms/news-story/8f208188949dfe955ed0ce831d10b816?from=rss-basic",
+      "url": "https://www.news.com.au/travel/australian-dies-while-undertaking-hajj-pilgrimage-in-saudi-arabia-dfat-confirms/news-story/8f208188949dfe955ed0ce831d10b816?from=rss-basic",
+      "title": "Aussie dies on religious pilgrimage",
+      "content_html": "An Australian is among the hundreds of Muslim pilgrims who have died in Saudi Arabia while completing an annual pilgrimage to Mecca.",
+      "summary": "An Australian is among the hundreds of Muslim pilgrims who have died in Saudi Arabia while completing an annual pilgrimage to Mecca."
+    },
+    {
+      "guid": "https://www.news.com.au/world/north-america/us-politics/us-states-new-ten-commandments-school-law-stirs-huge-controversy/news-story/4b9e07345fad2cdbf75080e4058d226d?from=rss-basic",
+      "url": "https://www.news.com.au/world/north-america/us-politics/us-states-new-ten-commandments-school-law-stirs-huge-controversy/news-story/4b9e07345fad2cdbf75080e4058d226d?from=rss-basic",
+      "title": "US’s wild new law on religion in schools",
+      "content_html": "A US state has introduced an eye opening new law regarding the Ten Commandments which has been criticised for turning “schools into Sunday schools”.",
+      "summary": "A US state has introduced an eye opening new law regarding the Ten Commandments which has been criticised for turning “schools into Sunday schools”."
+    },
+    {
+      "guid": "https://www.news.com.au/world/north-america/evil-us-landlord-kills-family-of-four-burning-their-remains-in-a-fire-pit/news-story/0078191f0979cb17f1707a20a9cac526?from=rss-basic",
+      "url": "https://www.news.com.au/world/north-america/evil-us-landlord-kills-family-of-four-burning-their-remains-in-a-fire-pit/news-story/0078191f0979cb17f1707a20a9cac526?from=rss-basic",
+      "title": "Landlord kills family of four after dispute",
+      "content_html": "A landlord has killed a couple and their two young children, after getting into a dispute with the parents.",
+      "summary": "A landlord has killed a couple and their two young children, after getting into a dispute with the parents."
+    },
+    {
+      "guid": "https://www.news.com.au/national/victoria/news/carlton-trades-hall-defaced-with-vile-anticop-graffiti/news-story/2185679b4cf252d381253e2ece605d40?from=rss-basic",
+      "url": "https://www.news.com.au/national/victoria/news/carlton-trades-hall-defaced-with-vile-anticop-graffiti/news-story/2185679b4cf252d381253e2ece605d40?from=rss-basic",
+      "title": "Sick anti-cop graffiti hits iconic union hall",
+      "content_html": "Vile messages have been spray-painted on one of Australia’s iconic halls in another incident of pro-Palestine vandalism, with vandals lashed for “performative activism”.",
+      "summary": "Vile messages have been spray-painted on one of Australia’s iconic halls in another incident of pro-Palestine vandalism, with vandals lashed for “performative activism”."
+    },
+    {
+      "guid": "https://www.news.com.au/world/europe/disgraceful-protesters-arrested-after-stonehenge-spray-painted-orange/news-story/0898fd42645c5b675c4aad649ffc53e7?from=rss-basic",
+      "url": "https://www.news.com.au/world/europe/disgraceful-protesters-arrested-after-stonehenge-spray-painted-orange/news-story/0898fd42645c5b675c4aad649ffc53e7?from=rss-basic",
+      "title": "Protesters arrested after spray painting Stonehenge",
+      "content_html": "Climate protesters have turned Stonehenge orange after spraying powder paint on the prehistoric site ahead of Sumer Solstice festival.",
+      "summary": "Climate protesters have turned Stonehenge orange after spraying powder paint on the prehistoric site ahead of Sumer Solstice festival."
+    },
+    {
+      "guid": "https://www.news.com.au/world/europe/uk-politics/uk-pm-headed-for-record-breaking-defeat-at-general-election-two-new-polls/news-story/a345f015b8b36c5ff1040586b5fffbca?from=rss-basic",
+      "url": "https://www.news.com.au/world/europe/uk-politics/uk-pm-headed-for-record-breaking-defeat-at-general-election-two-new-polls/news-story/a345f015b8b36c5ff1040586b5fffbca?from=rss-basic",
+      "title": "UK PM headed for record-breaking defeat",
+      "content_html": "Rishi Sunak could lead his party to the worst drubbing in Conservative history and repeat a humiliation John Howard endured.",
+      "summary": "Rishi Sunak could lead his party to the worst drubbing in Conservative history and repeat a humiliation John Howard endured."
+    },
+    {
+      "guid": "https://www.news.com.au/entertainment/celebrity-life/lots-to-say-justin-timberlakes-lawyer-breaks-silence-after-singers-arrest/news-story/8e7802a1a156534f4ecda067228309b7?from=rss-basic",
+      "url": "https://www.news.com.au/entertainment/celebrity-life/lots-to-say-justin-timberlakes-lawyer-breaks-silence-after-singers-arrest/news-story/8e7802a1a156534f4ecda067228309b7?from=rss-basic",
+      "title": "‘Lots to say’: Star’s lawyer breaks silence",
+      "content_html": "Justin Timberlake’s lawyer has spoken after the singer was arrested as video has emerged of the star allegedly driving before cops pulled him over.",
+      "summary": "Justin Timberlake’s lawyer has spoken after the singer was arrested as video has emerged of the star allegedly driving before cops pulled him over."
+    },
+    {
+      "guid": "https://www.news.com.au/technology/innovation/military/putin-and-kims-ominous-new-move-rattles-west/news-story/4c61a1ac729398c282cf7c256546c174?from=rss-basic",
+      "url": "https://www.news.com.au/technology/innovation/military/putin-and-kims-ominous-new-move-rattles-west/news-story/4c61a1ac729398c282cf7c256546c174?from=rss-basic",
+      "title": "Putin, Kim’s ‘ominous’ new military move",
+      "content_html": "Putin and Kim have rattled Western capitals with a shock new military agreement that serves as a working “reminder to Americans”.",
+      "summary": "Putin and Kim have rattled Western capitals with a shock new military agreement that serves as a working “reminder to Americans”."
+    },
+    {
+      "guid": "https://www.news.com.au/technology/motoring/on-the-road/us-electric-vehicle-startup-fisker-files-for-bankruptcy/news-story/86952dbc5385fe7613091b8a5a141788?from=rss-basic",
+      "url": "https://www.news.com.au/technology/motoring/on-the-road/us-electric-vehicle-startup-fisker-files-for-bankruptcy/news-story/86952dbc5385fe7613091b8a5a141788?from=rss-basic",
+      "title": "US electric vehicle start-up Fisker files for bankruptcy",
+      "content_html": "A major electric carmaker, once valued at $4.4 billion, has filed for bankruptcy citing inflation woes and production problems.",
+      "summary": "A major electric carmaker, once valued at $4.4 billion, has filed for bankruptcy citing inflation woes and production problems."
+    },
+    {
+      "guid": "https://www.news.com.au/world/pacific/bring-my-babies-home-mums-desperate-plea/news-story/5a0bab531e9259709f33f9fc88ebe14b?from=rss-basic",
+      "url": "https://www.news.com.au/world/pacific/bring-my-babies-home-mums-desperate-plea/news-story/5a0bab531e9259709f33f9fc88ebe14b?from=rss-basic",
+      "title": "Mum’s desperate plea after three kids vanish",
+      "content_html": "A mum of three children that disappeared after were taken by their father two years ago has begged to “get my babies home”.",
+      "summary": "A mum of three children that disappeared after were taken by their father two years ago has begged to “get my babies home”."
+    },
+    {
+      "guid": "https://www.news.com.au/world/asia/north-korea-preparing-for-arrival-of-russian-president-vladimir-putin/news-story/466bd5dfd8357d4edef1b82fa16a0adb?from=rss-basic",
+      "url": "https://www.news.com.au/world/asia/north-korea-preparing-for-arrival-of-russian-president-vladimir-putin/news-story/466bd5dfd8357d4edef1b82fa16a0adb?from=rss-basic",
+      "title": "West on high alert as Kim woos Putin",
+      "content_html": "Vladimir Putin has landed in North Korea in a move that has raised alarm bells in Seoul and Ukraine.",
+      "summary": "Vladimir Putin has landed in North Korea in a move that has raised alarm bells in Seoul and Ukraine."
+    },
+    {
+      "guid": "https://www.news.com.au/national/western-australia/chinese-premier-li-qiang-visits-perth-in-final-day-of-diplomatic-visit/news-story/e9ec95fdbd39d7d7d3d387412ff66e81?from=rss-basic",
+      "url": "https://www.news.com.au/national/western-australia/chinese-premier-li-qiang-visits-perth-in-final-day-of-diplomatic-visit/news-story/e9ec95fdbd39d7d7d3d387412ff66e81?from=rss-basic",
+      "title": "Storm clouds hang over PM’s China banquet",
+      "content_html": "The Prime Minister joined Chinese Premier Li Qiang in Perth on the final day of the high-profile visit, but storm clouds continue to gather over the trip.",
+      "summary": "The Prime Minister joined Chinese Premier Li Qiang in Perth on the final day of the high-profile visit, but storm clouds continue to gather over the trip."
+    },
+    {
+      "guid": "https://www.news.com.au/technology/innovation/military/australian-ambassador-to-the-philippines-slams-illegal-chinese-navy-action/news-story/5887fdc39a7c2be5c72a0b28551eed17?from=rss-basic",
+      "url": "https://www.news.com.au/technology/innovation/military/australian-ambassador-to-the-philippines-slams-illegal-chinese-navy-action/news-story/5887fdc39a7c2be5c72a0b28551eed17?from=rss-basic",
+      "title": "‘Illegal and reckless’: Chinese move slammed",
+      "content_html": "Beijing has been rebuked over a “dangerous” incident in international waters on the same day the Chinese Premier wraps up his visit in Perth.",
+      "summary": "Beijing has been rebuked over a “dangerous” incident in international waters on the same day the Chinese Premier wraps up his visit in Perth."
+    },
+    {
+      "guid": "https://www.news.com.au/world/middle-east/federal-court-rejects-legal-effort-to-force-reparation-of-women-and-children-in-syrian-detention-camps/news-story/de7dd9ee05f24f28d3dbc5c1c8fd2689?from=rss-basic",
+      "url": "https://www.news.com.au/world/middle-east/federal-court-rejects-legal-effort-to-force-reparation-of-women-and-children-in-syrian-detention-camps/news-story/de7dd9ee05f24f28d3dbc5c1c8fd2689?from=rss-basic",
+      "title": "Syria camp reparation effort rejected",
+      "content_html": "The Federal Court has again rejected an effort to force the federal government to bring home Aussie women and children in Syrian refugee camps.",
+      "summary": "The Federal Court has again rejected an effort to force the federal government to bring home Aussie women and children in Syrian refugee camps."
+    },
+    {
+      "guid": "https://www.news.com.au/entertainment/tv/streaming/westeros-power-couple-reveal-their-special-ties-to-australia/news-story/8d6c1fad42a31979d332afe22e1ebeea?from=rss-basic",
+      "url": "https://www.news.com.au/entertainment/tv/streaming/westeros-power-couple-reveal-their-special-ties-to-australia/news-story/8d6c1fad42a31979d332afe22e1ebeea?from=rss-basic",
+      "title": "Westeros power couple‘s Aussie link",
+      "content_html": "Two House of the Dragon stars have revealed their strong links to Australia, with one admitting they’re “desperate to go back”.",
+      "summary": "Two House of the Dragon stars have revealed their strong links to Australia, with one admitting they’re “desperate to go back”."
+    },
+    {
+      "guid": "https://www.news.com.au/lifestyle/real-life/news-life/judge-overturns-murder-conviction-of-us-woman-who-spent-more-than-40-years-in-prison/news-story/02a9e50f2e9c53a49c258deefb471f25?from=rss-basic",
+      "url": "https://www.news.com.au/lifestyle/real-life/news-life/judge-overturns-murder-conviction-of-us-woman-who-spent-more-than-40-years-in-prison/news-story/02a9e50f2e9c53a49c258deefb471f25?from=rss-basic",
+      "title": "Woman’s murder conviction overturned after 43 years",
+      "content_html": "The case is said to be the longest time a woman has been incarcerated for a wrongful conviction.",
+      "summary": "The case is said to be the longest time a woman has been incarcerated for a wrongful conviction."
+    },
+    {
+      "guid": "https://www.news.com.au/finance/work/leaders/biden-appears-to-freeze-up-has-to-be-led-off-stage-by-obama-at-la-fundraiser/news-story/298bac53e8bd9516b17b33b4aff66257?from=rss-basic",
+      "url": "https://www.news.com.au/finance/work/leaders/biden-appears-to-freeze-up-has-to-be-led-off-stage-by-obama-at-la-fundraiser/news-story/298bac53e8bd9516b17b33b4aff66257?from=rss-basic",
+      "title": "Biden appears to freeze up, has to be led off stage by Obama at LA fundraiser",
+      "content_html": "Joe Biden appeared to freeze up on stage and had to be led off by Barack Obama at the conclusion of a star-studded campaign fundraiser.",
+      "summary": "Joe Biden appeared to freeze up on stage and had to be led off by Barack Obama at the conclusion of a star-studded campaign fundraiser."
+    },
+    {
+      "guid": "https://www.news.com.au/world/north-america/as-many-as-10-shot-at-michigan-water-park-in-active-shooter-situation-reports/news-story/29a61bc8cefb4b16d6308e7dfeb0edb7?from=rss-basic",
+      "url": "https://www.news.com.au/world/north-america/as-many-as-10-shot-at-michigan-water-park-in-active-shooter-situation-reports/news-story/29a61bc8cefb4b16d6308e7dfeb0edb7?from=rss-basic",
+      "title": "Multiple shot at Michigan water park as ‘active shooter situation’ is contained",
+      "content_html": "A gunman is dead after multiple people, including children, were shot at a water park in the US - followed by a grim find.",
+      "summary": "A gunman is dead after multiple people, including children, were shot at a water park in the US - followed by a grim find."
+    },
+    {
+      "guid": "https://www.news.com.au/lifestyle/real-life/news-life/illegal-immigrant-charged-in-rape-killing-of-motheroffive/news-story/3a48d757bc82640f5c95cd283d8092de?from=rss-basic",
+      "url": "https://www.news.com.au/lifestyle/real-life/news-life/illegal-immigrant-charged-in-rape-killing-of-motheroffive/news-story/3a48d757bc82640f5c95cd283d8092de?from=rss-basic",
+      "title": "Illegal immigrant charged in rape, killing of mother-of-five",
+      "content_html": "A migrant from El Salvador has been charged over the brutal 2023 rape and murder of a mother-of-five on a US hiking trail, police say.",
+      "summary": "A migrant from El Salvador has been charged over the brutal 2023 rape and murder of a mother-of-five on a US hiking trail, police say."
+    },
+    {
+      "guid": "https://www.news.com.au/lifestyle/real-life/news-life/bikiniclad-barista-smashes-customers-windshield-after-he-threw-33-coffee-order-at-her/news-story/b646e410878585d3074aff751130d5ed?from=rss-basic",
+      "url": "https://www.news.com.au/lifestyle/real-life/news-life/bikiniclad-barista-smashes-customers-windshield-after-he-threw-33-coffee-order-at-her/news-story/b646e410878585d3074aff751130d5ed?from=rss-basic",
+      "title": "Bikini-clad barista smashes customer’s windshield after he threw $33 coffee at her",
+      "content_html": "This is the moment a barista at a drive-through cafe took revenge on an angry customer who threw a $33 coffee order in her face.",
+      "summary": "This is the moment a barista at a drive-through cafe took revenge on an angry customer who threw a $33 coffee order in her face."
+    },
+    {
+      "guid": "https://www.news.com.au/travel/travel-updates/incidents/jake-and-callum-robinson-farewelled-in-perth-paddle-out-after-brothers-killed-in-mexico/news-story/5d5ca5b85bedab0810d3a2fa814db8ca?from=rss-basic",
+      "url": "https://www.news.com.au/travel/travel-updates/incidents/jake-and-callum-robinson-farewelled-in-perth-paddle-out-after-brothers-killed-in-mexico/news-story/5d5ca5b85bedab0810d3a2fa814db8ca?from=rss-basic",
+      "title": "Jake and Callum Robinson commemorated in Perth paddle out",
+      "content_html": "Members of the Perth community have gathered to take part in a paddle out to remember Callum and Jake Robinson.",
+      "summary": "Members of the Perth community have gathered to take part in a paddle out to remember Callum and Jake Robinson."
+    },
+    {
+      "guid": "https://www.news.com.au/national/nsw-act/news/vacate-university-of-sydney-issues-ultimatum-to-propalestine-encampment-after-months-of-protest/news-story/6203f10d84cfec4ef5986493ec2b3a41?from=rss-basic",
+      "url": "https://www.news.com.au/national/nsw-act/news/vacate-university-of-sydney-issues-ultimatum-to-propalestine-encampment-after-months-of-protest/news-story/6203f10d84cfec4ef5986493ec2b3a41?from=rss-basic",
+      "title": "Uni’s ultimatum to pro-Palestine camp",
+      "content_html": "A prominent university has delivered it’s ultimatum to pro-Palestine protesters who have camped on the campus grounds for months.",
+      "summary": "A prominent university has delivered it’s ultimatum to pro-Palestine protesters who have camped on the campus grounds for months."
+    },
+    {
+      "guid": "https://www.news.com.au/technology/prof-meagre-amares-death-sparks-2bn-lawsuit-against-meta/news-story/d1bfeeb9d2210e29119f5ce938cd9e81?from=rss-basic",
+      "url": "https://www.news.com.au/technology/prof-meagre-amares-death-sparks-2bn-lawsuit-against-meta/news-story/d1bfeeb9d2210e29119f5ce938cd9e81?from=rss-basic",
+      "title": "Man killed sparks $2bn lawsuit against Meta",
+      "content_html": "The son of a respected professor, who was gunned down outside his family home, is suing Meta in a landmark case over safety concerns.",
+      "summary": "The son of a respected professor, who was gunned down outside his family home, is suing Meta in a landmark case over safety concerns."
+    },
+    {
+      "guid": "https://www.news.com.au/travel/travel-updates/incidents/boeing-planes-terrifying-dutch-roll-at-32000-feet/news-story/da104cbcb0f520ada4ab35a0073e97af?from=rss-basic",
+      "url": "https://www.news.com.au/travel/travel-updates/incidents/boeing-planes-terrifying-dutch-roll-at-32000-feet/news-story/da104cbcb0f520ada4ab35a0073e97af?from=rss-basic",
+      "title": "Boeing plane’s terrifying ‘Dutch roll’ at 32,000 feet",
+      "content_html": "A flight carrying 175 passengers experienced a rare and horrifying phenomenon known as a “Dutch roll” while flying between two US cities.",
+      "summary": "A flight carrying 175 passengers experienced a rare and horrifying phenomenon known as a “Dutch roll” while flying between two US cities."
+    },
+    {
+      "guid": "https://www.news.com.au/world/europe/putin-ukraine-war-peace-plan-slammed-as-offensive/news-story/364f74180ae288683e57c245649164f9?from=rss-basic",
+      "url": "https://www.news.com.au/world/europe/putin-ukraine-war-peace-plan-slammed-as-offensive/news-story/364f74180ae288683e57c245649164f9?from=rss-basic",
+      "title": "Putin proposes ‘absurd’ Ukraine peace plan",
+      "content_html": "The Russian leader has set out Moscow’s most detailed Ukraine peace plan yet – but it’s immediately been called “absurd” and “offensive”.",
+      "summary": "The Russian leader has set out Moscow’s most detailed Ukraine peace plan yet – but it’s immediately been called “absurd” and “offensive”."
+    },
+    {
+      "guid": "https://www.news.com.au/travel/travel-updates/incidents/it-was-avoidable-experts-say-thunderstorm-to-blame-for-singapore-death-flight/news-story/5c273e0e9f240c1fe35f9114020780d8?from=rss-basic",
+      "url": "https://www.news.com.au/travel/travel-updates/incidents/it-was-avoidable-experts-say-thunderstorm-to-blame-for-singapore-death-flight/news-story/5c273e0e9f240c1fe35f9114020780d8?from=rss-basic",
+      "title": "New theory emerges over Singapore flight",
+      "content_html": "Experts believe the incident, which led to the death of a man and dozens injured, could have been avoided.",
+      "summary": "Experts believe the incident, which led to the death of a man and dozens injured, could have been avoided."
+    }
+  ]
+}

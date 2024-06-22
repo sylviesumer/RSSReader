@@ -1,0 +1,227 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "NYT > Technology",
+  "home_page_url": "https://www.nytimes.com/section/technology",
+  "items": [
+    {
+      "guid": "https://www.nytimes.com/2024/06/18/technology/nvidia-most-valuable-company.html",
+      "url": "https://www.nytimes.com/2024/06/18/technology/nvidia-most-valuable-company.html",
+      "title": "Nvidia, with $3.34 Trillion Market Cap, Becomes Most Valuable Company",
+      "content_html": "The chip maker’s stock price has jumped over the last year thanks to its stranglehold on the market for the chips needed to build A.I. systems.",
+      "summary": "The chip maker’s stock price has jumped over the last year thanks to its stranglehold on the market for the chips needed to build A.I. systems.",
+      "date_published": "2024-06-18T23:00:38.000Z",
+      "author": {
+        "name": "Tripp Mickle and Joe Rennison"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/17/technology/-crypto-influence-election.html",
+      "url": "https://www.nytimes.com/2024/06/17/technology/-crypto-influence-election.html",
+      "title": "How Crypto Money Is Poised to Influence the Election",
+      "content_html": "The industry’s political awakening — and enormous pool of cash — is already affecting high-profile races across the country.",
+      "summary": "The industry’s political awakening — and enormous pool of cash — is already affecting high-profile races across the country.",
+      "date_published": "2024-06-17T23:11:51.000Z",
+      "author": {
+        "name": "David Yaffe-Bellany, Erin Griffith and Theodore Schleifer"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/17/technology/us-adobe-subscription-lawsuit.html",
+      "url": "https://www.nytimes.com/2024/06/17/technology/us-adobe-subscription-lawsuit.html",
+      "title": "FTC Sues Adobe Over Hard-to-Cancel Subscriptions and Fees",
+      "content_html": "The maker of Photoshop and other popular design software hid details of expensive cancellation fees, according to a Justice Department lawsuit.",
+      "summary": "The maker of Photoshop and other popular design software hid details of expensive cancellation fees, according to a Justice Department lawsuit.",
+      "date_published": "2024-06-17T18:45:44.000Z",
+      "author": {
+        "name": "David McCabe"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html",
+      "url": "https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html",
+      "title": "How A.I. Is Revolutionizing Drug Development",
+      "content_html": "In high-tech labs, workers are generating data to train A.I. algorithms to design better medicine, faster. But the transformation is just getting underway.",
+      "summary": "In high-tech labs, workers are generating data to train A.I. algorithms to design better medicine, faster. But the transformation is just getting underway.",
+      "date_published": "2024-06-17T16:47:39.000Z",
+      "author": {
+        "name": "Steve Lohr and Spencer Lowell"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/21/business/cyberattack-car-dealers-cdk.html",
+      "url": "https://www.nytimes.com/2024/06/21/business/cyberattack-car-dealers-cdk.html",
+      "title": "CDK Global Cyberattack Disrupts Car Sales in U.S. and Canada",
+      "content_html": "The attacks on a software provider, CDK Global, affect systems that store customer records and automate paperwork and data for sales and service.",
+      "summary": "The attacks on a software provider, CDK Global, affect systems that store customer records and automate paperwork and data for sales and service.",
+      "date_published": "2024-06-21T16:14:03.000Z",
+      "author": {
+        "name": "Neal E. Boudette"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/21/business/mcdonalds-ai-drive-thru-white-castle.html",
+      "url": "https://www.nytimes.com/2024/06/21/business/mcdonalds-ai-drive-thru-white-castle.html",
+      "title": "260 McNuggets? McDonald’s Ends A.I. Drive-Through Tests Amid Errors",
+      "content_html": "Ordering mistakes frustrated customers during nearly three years of tests. But competitors like White Castle and Wendy’s say their A.I. ordering systems have been highly accurate.",
+      "summary": "Ordering mistakes frustrated customers during nearly three years of tests. But competitors like White Castle and Wendy’s say their A.I. ordering systems have been highly accurate.",
+      "date_published": "2024-06-21T16:07:26.000Z",
+      "author": {
+        "name": "Hank Sanders"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/21/podcasts/surgeon-general-warning.html",
+      "url": "https://www.nytimes.com/2024/06/21/podcasts/surgeon-general-warning.html",
+      "title": "A Surgeon General Warning, The Disinformation Battle and The Rise of CryptoPACs",
+      "content_html": "Will a social media warning really help children’s mental health?",
+      "summary": "Will a social media warning really help children’s mental health?",
+      "date_published": "2024-06-21T09:04:10.000Z",
+      "author": {
+        "name": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Whitney Jones, Jen Poyant, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Rowan Niemisto"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/20/business/media/tiktok-ban-biden.html",
+      "url": "https://www.nytimes.com/2024/06/20/business/media/tiktok-ban-biden.html",
+      "title": "TikTok Lays Out Past Efforts to Address U.S. Concerns Over Potential Ban",
+      "content_html": "The company said the disclosures support its argument that a law signed by President Biden in May is unconstitutional.",
+      "summary": "The company said the disclosures support its argument that a law signed by President Biden in May is unconstitutional.",
+      "date_published": "2024-06-20T20:43:50.000Z",
+      "author": {
+        "name": "Sapna Maheshwari"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/19/technology/ilya-sutskever-openai-safe-superintelligence.html",
+      "url": "https://www.nytimes.com/2024/06/19/technology/ilya-sutskever-openai-safe-superintelligence.html",
+      "title": "Ilya Sutskever, OpenAI Co-Founder Who Helped Oust Sam Altman, Starts His Own Company",
+      "content_html": "Ilya Sutskever’s new start-up, Safe Superintelligence, aims to build A.I. technologies that are smarter than a human but not dangerous.",
+      "summary": "Ilya Sutskever’s new start-up, Safe Superintelligence, aims to build A.I. technologies that are smarter than a human but not dangerous.",
+      "date_published": "2024-06-20T00:24:02.000Z",
+      "author": {
+        "name": "Cade Metz"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/18/science/titan-submersible-anniversary.html",
+      "url": "https://www.nytimes.com/2024/06/18/science/titan-submersible-anniversary.html",
+      "title": "On Titan Submersible Anniversary, World Rethinks Deep Sea Exploration",
+      "content_html": "A year after the first deaths of divers who ventured into the ocean’s sunless depths, an industry wrestles with new challenges for piloted submersibles and robotic explorers.",
+      "summary": "A year after the first deaths of divers who ventured into the ocean’s sunless depths, an industry wrestles with new challenges for piloted submersibles and robotic explorers.",
+      "date_published": "2024-06-19T15:21:46.000Z",
+      "author": {
+        "name": "William J. Broad"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/18/business/economy/amazon-labor-union-teamsters.html",
+      "url": "https://www.nytimes.com/2024/06/18/business/economy/amazon-labor-union-teamsters.html",
+      "title": "How the Teamsters and a Homegrown Union Plan to Take On Amazon",
+      "content_html": "An affiliation agreement between the Amazon Labor Union and the 1.3 million-member Teamsters signals an escalation in challenging the online retailer.",
+      "summary": "An affiliation agreement between the Amazon Labor Union and the 1.3 million-member Teamsters signals an escalation in challenging the online retailer.",
+      "date_published": "2024-06-18T14:19:47.000Z",
+      "author": {
+        "name": "Noam Scheiber"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/17/business/economy/artificial-intelligence-small-business.html",
+      "url": "https://www.nytimes.com/2024/06/17/business/economy/artificial-intelligence-small-business.html",
+      "title": "Can A.I. Answer the Needs of Smaller Businesses? Some Push to Find Out.",
+      "content_html": "Artificial intelligence tools like ChatGPT are finding widest use at big companies, but there is wide expectation that the impact will spread.",
+      "summary": "Artificial intelligence tools like ChatGPT are finding widest use at big companies, but there is wide expectation that the impact will spread.",
+      "date_published": "2024-06-17T09:03:14.000Z",
+      "author": {
+        "name": "Sydney Ember"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/15/technology/lynn-conway-dead.html",
+      "url": "https://www.nytimes.com/2024/06/15/technology/lynn-conway-dead.html",
+      "title": "Lynn Conway, Computing Pioneer and Transgender Advocate, Dies at 86",
+      "content_html": "She made significant contributions at IBM, but she lost her job because of her conviction that she inhabited the wrong body. She later fought for transgender rights.",
+      "summary": "She made significant contributions at IBM, but she lost her job because of her conviction that she inhabited the wrong body. She later fought for transgender rights.",
+      "date_published": "2024-06-17T23:32:27.000Z",
+      "author": {
+        "name": "Trip Gabriel"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/14/business/tesla-elon-musk-pay-vote-stock.html",
+      "url": "https://www.nytimes.com/2024/06/14/business/tesla-elon-musk-pay-vote-stock.html",
+      "title": "Elon Musk Got 72% in Tesla Shareholder Vote on Pay",
+      "content_html": "About 72 percent of shares in the balloting affirmed the chief executive’s lucrative stock award. The company hopes to get a court to reinstate it.",
+      "summary": "About 72 percent of shares in the balloting affirmed the chief executive’s lucrative stock award. The company hopes to get a court to reinstate it.",
+      "date_published": "2024-06-14T20:31:37.000Z",
+      "author": {
+        "name": "Jason Karaian and Jack Ewing"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/14/podcasts/hardfork-apple-intelligence-elon-musk.html",
+      "url": "https://www.nytimes.com/2024/06/14/podcasts/hardfork-apple-intelligence-elon-musk.html",
+      "title": "Apple Joins the A.I. Party, Elon’s Wild Week and HatGPT",
+      "content_html": "“They really sort of make you feel like it’s Christmas and Coachella at the same time.”",
+      "summary": "“They really sort of make you feel like it’s Christmas and Coachella at the same time.”",
+      "date_published": "2024-06-14T09:06:07.000Z",
+      "author": {
+        "name": "Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Jen Poyant, Chris Wood, Dan Powell, Elisheba Ittoop, Marion Lozano and Rowan Niemisto"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/14/technology/remo-saraceni-dead.html",
+      "url": "https://www.nytimes.com/2024/06/14/technology/remo-saraceni-dead.html",
+      "title": "Remo Saraceni, 89, Dies; Inventor of the Walking Piano Seen in ‘Big’",
+      "content_html": "His keyboard, which became famous after Tom Hanks melodiously hopped on it, displayed Mr. Saraceni’s vision of technology powered by “people energy.”",
+      "summary": "His keyboard, which became famous after Tom Hanks melodiously hopped on it, displayed Mr. Saraceni’s vision of technology powered by “people energy.”",
+      "date_published": "2024-06-17T20:17:38.000Z",
+      "author": {
+        "name": "Alex Traub"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html",
+      "url": "https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html",
+      "title": "Clearview AI Used Your Face. Now You May Get a Stake in the Company.",
+      "content_html": "The facial recognition start-up doesn’t have the funds to settle a class-action lawsuit, so lawyers are proposing equity for those whose faces were scraped from the internet.",
+      "summary": "The facial recognition start-up doesn’t have the funds to settle a class-action lawsuit, so lawyers are proposing equity for those whose faces were scraped from the internet.",
+      "date_published": "2024-06-14T00:07:02.000Z",
+      "author": {
+        "name": "Kashmir Hill"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/13/business/tesla-elon-musk-vote-reaction.html",
+      "url": "https://www.nytimes.com/2024/06/13/business/tesla-elon-musk-vote-reaction.html",
+      "title": "Musk’s Friends and Fans Applaud Shareholder Vote on His Payday",
+      "content_html": "On the social media platform X, which Mr. Musk owns, reactions to a vote that reaffirmed Mr. Musk’s $45 billion package were buoyant.",
+      "summary": "On the social media platform X, which Mr. Musk owns, reactions to a vote that reaffirmed Mr. Musk’s $45 billion package were buoyant.",
+      "date_published": "2024-06-15T02:13:45.000Z",
+      "author": {
+        "name": "Eli Tan"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/13/technology/x-elon-musk-linda-yaccarino.html",
+      "url": "https://www.nytimes.com/2024/06/13/technology/x-elon-musk-linda-yaccarino.html",
+      "title": "X CEO Linda Yaccarino Touts Advertiser Return After Musk Takeover",
+      "content_html": "Still, Elon Musk, who owns the platform, and his chief executive Linda Yaccarino, have work to do to grow the business, leaders told employees.",
+      "summary": "Still, Elon Musk, who owns the platform, and his chief executive Linda Yaccarino, have work to do to grow the business, leaders told employees.",
+      "date_published": "2024-06-15T01:17:49.000Z",
+      "author": {
+        "name": "Kate Conger and Ryan Mac"
+      }
+    },
+    {
+      "guid": "https://www.nytimes.com/2024/06/13/business/tesla-shareholder-vote-elon-musk.html",
+      "url": "https://www.nytimes.com/2024/06/13/business/tesla-shareholder-vote-elon-musk.html",
+      "title": "Tesla Shareholders Approve C.E.O. Elon Musk’s Pay Package",
+      "content_html": "The vote was seen as a referendum on his management of the electric car maker and on the limits of executive pay.",
+      "summary": "The vote was seen as a referendum on his management of the electric car maker and on the limits of executive pay.",
+      "date_published": "2024-06-13T23:42:36.000Z",
+      "author": {
+        "name": "Jack Ewing and Peter Eavis"
+      }
+    }
+  ]
+}
