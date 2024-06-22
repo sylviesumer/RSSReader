@@ -1,11 +1,5 @@
 import React, { Component } from "react";
-import {
-  View,
-  Text,
-  FlatList,
-  StyleSheet,
-  TouchableHighlight,
-} from "react-native";
+import { WebView } from 'react-native-webview';
 import { observer } from "mobx-react";
 import { inject } from "mobx-react";
 
@@ -15,14 +9,11 @@ import { inject } from "mobx-react";
 @observer
 export default class EntryDetail extends Component {
   render() {
-    const {
-      navigation,
-      route: { params },
-    } = this.props;
+    const { store } = this.props;
+    const { selectedEntry } = store;
+    console.log(selectedEntry)
     return (
-      <View>
-        <Text>Feed Detail</Text>
-      </View>
+      <WebView source={{uri: selectedEntry.url}} />
     );
   }
 }

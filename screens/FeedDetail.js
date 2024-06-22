@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { MaterialIcons } from "@expo/vector-icons";
 import {
   View,
   Text,
@@ -11,7 +12,7 @@ import {
 import { observer } from "mobx-react";
 import { inject } from "mobx-react";
 
-import { fetchFeed, selectEntry } from "../actions";
+import { fetchFeed, removeFeed, selectEntry } from "../actions";
 
 keyExtractor = ({ url }) => url;
 
@@ -24,11 +25,15 @@ export default class FeedDetail extends Component {
     entry: null
   }
   componentDidMount() {
-    const { store } = this.props;
+    const { store, navigation, route } = this.props;
+    const { params } = route;
     this.setState({loading: true});
     const feed = fetchFeed(store.selectedFeed.url);
     this.setState({loading: false});
     this.setState({entry: feed.entry});
+    navigation.setOptions({
+      headerRight: () => (<MaterialIcons onPress={() => {removeFeed(params.feedUrl);navigation.goBack()}} name="delete" size={32}  />)
+  })
   }
   handleEntryPress(entry) {
     const { navigation: { navigate }} = this.props;
